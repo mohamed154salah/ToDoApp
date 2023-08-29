@@ -7,7 +7,7 @@ and complete items from the list and view the items From List .
 
 ## Getting Started
 - Clone this repository to your local machine.
-``` git clone https://github.com/mohamed154salah/ToDoApp``
+``` git clone https://github.com/mohamed154salah/ToDoApp```
 
 - Once downloaded, cd into the ```ToDoApp``` directory.
 ``` cd ToDoApp/ToDoApp```
